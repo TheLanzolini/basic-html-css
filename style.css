@@ -1,0 +1,45 @@
+body {
+  font-family: Arial;
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -mac-osx-font-smoothing: greyscale;
+  box-sizing: border-box;
+}
+
+h2 {
+  font-family: 'Times New Roman';
+}
+
+.red {
+  color: red;
+}
+
+.mine {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}
+
+.huge {
+  font-size: 60px;
+}
+
+.parent {
+  font-size: 36px;
+}
+
+.child {
+  font-size: 20px;
+}
+
+.child-child {
+  font-size: 12px;
+}
+
+#best-header {
+  color: limegreen;
+}

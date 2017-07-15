@@ -1,0 +1,45 @@
+html {
+  font-family: Arial, sans-serif;
+  background-color: #efefef;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  font-size: 28px;
+  overflow: hidden;
+  background-color: white;
+  border-bottom: 1px solid #cdcdcd;
+}
+
+.left, .right {
+  width: 50%;
+  float: left;
+  padding: 12px;
+}
+
+.header-link {
+  font-size: 18px;
+}
+
+.catz-body {
+  width: 960px;
+  margin: 12px auto 0;
+  background-color: white;
+  padding: 12px;
+  text-align: center;
+}
+
+.catz-header {
+  text-align: center;
+}
+
+.catz-body img {
+  display: inline-block;
+}
